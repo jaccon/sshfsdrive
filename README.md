@@ -6,5 +6,5 @@ You just need set the variables with your informations and run
 Remember to use a SSHFS in your Mac you need to install a 
 
 ### OSXFuse and SSHFS
-[https://osxfuse.github.io/] (https://osxfuse.github.io/)
+[https://osxfuse.github.io/] 
 
